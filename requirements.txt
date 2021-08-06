@@ -71,7 +71,6 @@ Pillow==8.1.2
 pipwin==0.5.1
 prometheus-client==0.11.0
 prompt-toolkit==3.0.19
-PyAudio @ file:///C:/Users/Bhargav/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 pycparser==2.20
 pygame==2.0.1
 Pygments==2.9.0
