@@ -61,13 +61,6 @@ pandocfilters==1.4.3
 parso==0.8.2
 pathspec==0.8.1
 pickleshare==0.7.5
-Pillow==8.1.2
-pipwin==0.5.1
-prometheus-client==0.11.0
-prompt-toolkit==3.0.19
-pycparser==2.20
-pygame==2.0.1
-Pygments==2.9.0
 pyjsparser==2.7.1
 pyparsing==2.4.7
 python-dateutil==2.8.1
